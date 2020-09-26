@@ -1,3 +1,5 @@
+__author__ = 'Pradyumn Vikram'
+
 import pygame
 import random
 import os
